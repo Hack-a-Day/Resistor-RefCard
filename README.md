@@ -5,6 +5,9 @@ Check out the resistor color code reference cards I just whipped up. I was inspi
 
 To learn more by [read the full post](http://hackaday.com/2013/08/28/hackadays-resistor-code-reference-card/).
 
-![Refcard Front](https://github.com/Hack-a-Day/Resistor-RefCard/resistor-refcard-front.png)
-![Refcard Back](https://github.com/Hack-a-Day/Resistor-RefCard/resistor-refcard-back.png)
+## Front of card
+![Refcard Front](https://raw.github.com/Hack-a-Day/Resistor-RefCard/master/resistor-refcard-front.png)
+
+## Back of card
+![Refcard Back](https://raw.github.com/Hack-a-Day/Resistor-RefCard/master/resistor-refcard-back.png)
 
