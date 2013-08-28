@@ -1,4 +1,10 @@
-Resistor-RefCard
-================
+Hackady Resistor Reference Card
+===============================
 
-Resistor (and other useful information) you can print out and laminate, or affix to a PCB.
+Check out the resistor color code reference cards I just whipped up. I was inspired by the PCB versions that Octopart has been crowdfunding this week. Those didn't have the information I would normally be looking up, so I decided to whip up a few of my own and put them out there for inspiration or for you to print yourselves.
+
+To learn more by [read the full post]().
+
+![Refcard Front](https://github.com/Hack-a-Day/Resistor-RefCard/resistor-refcard-front.png)
+![Refcard Back](https://github.com/Hack-a-Day/Resistor-RefCard/resistor-refcard-back.png)
+
